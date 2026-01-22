@@ -1,15 +1,28 @@
 title: My Personal Site
 description: Personal notes on code, math and research
 
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-remote-theme
 
-header_pages:
-  - index.md
-  - code/index.md
-  - math/index.md
-  - research/index.md
-  - thoughts/index.md
-  - about.md
+# 网站行为
+url: ""
+baseurl: ""
+
+# 启用站点搜索
+search_enabled: true
+
+# 顶部导航
+nav_external_links:
+  - title: GitHub
+    url: https://github.com/stellerator-0721
+    hide_icon: false
+
+# 外观
+color_scheme: dark
+
+# Markdown
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
