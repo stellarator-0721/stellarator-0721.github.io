@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Math
+nav_order: 3
+permalink: /math/
 ---
+
 
 # 📐 数学笔记
 
