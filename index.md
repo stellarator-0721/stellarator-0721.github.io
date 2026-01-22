@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Home
+nav_order: 1
+permalink: /
 ---
+
 
 # 欢迎来到我的个人主页
 
