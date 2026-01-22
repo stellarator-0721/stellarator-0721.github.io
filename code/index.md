@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Code
+nav_order: 2
+permalink: /code/
 ---
+
 
 # 💻 代码与系统设计
 
