@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Code
+nav_order: 2
+has_children: true
 ---
-
 
 # 💻 代码与系统设计
 
