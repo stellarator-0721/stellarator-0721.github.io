@@ -1,8 +1,15 @@
-title: 我的个人主页
-description: 欢迎访问我的个人网站！这是一个用 Jekyll 创建的简单网页。
-baseurl: ""
-url: "https://stellarator-0721.github.io"  # 替换成你自己的GitHub Pages URL
+title: My Personal Site
+description: Personal notes on code, math and research
+
 remote_theme: pages-themes/midnight@v0.2.0
+
 plugins:
   - jekyll-remote-theme
 
+header_pages:
+  - index.md
+  - code/index.md
+  - math/index.md
+  - research/index.md
+  - thoughts/index.md
+  - about.md
