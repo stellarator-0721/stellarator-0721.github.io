@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Research
+nav_order: 4
+has_children: true
 ---
-
 
 # 🔬 科研记录
 
