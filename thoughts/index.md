@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Thoughts
+nav_order: 5
 ---
-
 
 # 📝 碎碎念
 
