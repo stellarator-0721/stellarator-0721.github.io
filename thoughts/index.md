@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Thoughts
+nav_order: 5
+permalink: /thoughts/
 ---
+
 
 # 📝 碎碎念
 
