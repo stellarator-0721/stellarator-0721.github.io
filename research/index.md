@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Research
+nav_order: 4
+permalink: /research/
 ---
+
 
 # 🔬 科研记录
 
