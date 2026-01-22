@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Math
+nav_order: 3
+has_children: true
 ---
-
 
 # 📐 数学笔记
 
